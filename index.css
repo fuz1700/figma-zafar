@@ -1,0 +1,321 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.case{
+  width: 95%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.nav{
+  width: 100%;
+  height: 100px;
+
+
+}
+
+
+
+.n-main{
+  display: flex;
+  justify-content: space-between;
+  a{
+    color:  #3A5F56;
+display: flex;
+justify-content: space-between;
+padding-top: 20px;
+text-decoration: none;
+
+  }
+img{
+width: 113px;
+height: 40px;
+padding-top: 10px;
+}
+
+
+
+ 
+}
+
+.icons{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  gap: 10px;
+  background-color: #3A5F56;
+  border-radius: 6px;
+  height: 44px;
+  width: 122px;
+  padding-top: 3px;
+
+  a{
+    color: white;
+   align-items: center;
+   text-align: center;
+  }
+}
+
+
+header{
+  width: 1980px;
+  height: 1100px;
+  background: #F4F3F0;
+
+}
+
+
+.h-main{
+h1{
+  color: #3A5F56;
+font-size: 48px;
+font-weight: 400;
+font-family: "Roboto", sans-serif;
+text-align: left;
+padding-top: 400px;
+font-family: "Source Code Pro", monospace;
+gap: 90px;
+}
+
+p{
+  font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+text-align-last: left;
+
+}
+
+button{
+  width: 118px;
+  height: 44px;
+  border-radius: 6px;
+  background-color: #3A5F56;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  border: none;
+
+
+}
+img{
+  margin-left: 700px;
+margin-top: -600px;
+}
+
+
+}
+
+
+.txt{
+  width: 600px;
+  height: 159px;
+  margin-left: 300px;
+gap: 50px;
+  img{
+    width: 160px;
+    height: 19px;
+    margin-left: 500px;
+  }
+  h1{
+    width: 121px;
+    height: 39px;
+    font-size: 32px;
+    font-family: "Source Code Pro", monospace;
+    color: #3A5F56;
+    font-weight: 400;
+    margin-left: 500px;
+  }
+
+  p{
+    width: 591px;
+    height: 68px;
+    font-weight: 400;
+    margin-left: 500px;
+  }
+}
+
+
+.section{
+  width: 1220px;
+  height: 1121px;
+  padding-top: 100px;
+    margin-left: 120px;
+
+
+}
+
+.s-main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  img{
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+
+  h1{
+    width: 255px;
+    height: 29px;
+    padding-top: 17px;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #3A5F56;
+  }
+  p{
+    width: 310px;
+height: 90px;
+padding-top: 19px;
+margin-left: 30px;
+color:  #292C32;
+
+
+  }
+
+  b{
+    width: 112px;
+height: 23px;
+top: 251.47px;
+margin-left: 29.66px;
+color: #3A5F56;
+font-size: 17px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+  }
+}
+
+
+.card{
+  background: #F4F3F0;
+border-radius: 16px;
+height: 304px;
+width: 379px;
+
+}
+
+
+span{
+  color: red;
+}
+
+.txt{
+
+
+  h3{
+    margin-left: 500px;
+    font-size: 32px;
+ text-align: center;
+ color: rgb(236, 9, 9);
+ width: 176px;
+  }
+
+  p{
+    width: 591px;
+    height: 68px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+aside{
+  width: 1220px;
+  height: 690px;
+  margin-left: 420px;
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+.a-main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+gap: 25px;
+
+}
+
+.card{
+  height: 438px;
+  width: 379px;
+  padding-top: -0.47px;
+  background: #F4F3F0;
+
+  h1{
+    width: 285px;
+    height: 84px;
+    padding-top: 29px;
+    margin-left: 30px;
+    color: #3A5F56;
+
+      }
+
+      p{
+        color: #3A5F56;
+        width: 317px;
+        height: 90px;
+        padding-top: 2px;
+        margin-left: 30px;
+   
+      }
+
+
+}
+
+
+footer{
+  width: 800px;
+  height: 259px;
+  padding-top: 100px;
+  margin-left: 320px;
+  background-color: #F4F3F0;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 100px;
+
+}
+
+
+.f-left{
+  width: 313px;
+  height: 101px;
+  padding-top: 2px;
+  margin-left: 80px;
+
+ h1{
+  font-weight: 400;
+  font-size: 28px;
+
+ }
+
+}
+
+
+.f-right{
+  width: 125px;
+  height: 58px;
+ padding-top: -0.01px;
+  margin-left: 595px;
+button{
+  border-radius: 6px;
+font-weight: 400;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  background-color: #3A5F56;
+  color: white;
+  height: 50px;
+  width: 100px;
+  border: none;
+}
+
+}
+
+
+
+
